@@ -1,4 +1,4 @@
-**[RPA] Mensagem Automática por Whatsapp **
+**[RPA] Mensagem Automática por Whatsapp**
 
 Código em Python com o objetivo de automatizar o envio de mensagens por Whatsapp conforme planilha padrão.
 Código segue os seguintes passos:
